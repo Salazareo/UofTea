@@ -1,6 +1,6 @@
 {
   "name": "uoftea",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "Course and professor reviews",
   "scripts": {
     "bcrypt": "npm install bcrypt",

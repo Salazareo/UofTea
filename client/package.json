@@ -1,6 +1,6 @@
 {
   "name": "uoftea",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "private": true,
   "dependencies": {
     "crypto-js": "^4.0.0",
